@@ -3,7 +3,7 @@ I'm a Computer Engineering student at Facultad de Ingeniería (Udelar) who loves
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,php,js,html,css,vscode,visualstudio,powershell,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,php,js,html,css,vscode,powershell,mysql,docker)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 - Connect with me on [Linkedin](https://www.linkedin.com/in/flavia-duarte-cavia-3a9095410/?locale=en-US)
