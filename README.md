@@ -1,7 +1,7 @@
 # Hi, I'm Flavia! 👋
 I'm a Computer Engineering student at Facultad de Ingeniería (Udelar) who loves learning something new every day. Lately, I've been working with Python to explore Artificial Intelligence and Data Science—two fields that genuinely excite me. I'm always eager to keep building and refining my skills, and I love giving back to the tech community. If you have a project you'd like to collaborate on or share, feel free to reach out to me!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duarteflavia" alt="duarteflavia" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=duarteflavia)](https://github.com/duarteflavia/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
